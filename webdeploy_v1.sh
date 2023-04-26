@@ -23,7 +23,7 @@ sleep1
 git clone devops-memory https://github.com/roxsross/devops-static-web.git
 cp -r devops-static-web/* /var/www/html/
 ls -ltr /var/www/html/
-echo "pagina instalada"
+echo "página instalada"
 
 sleep1
 ##test 
